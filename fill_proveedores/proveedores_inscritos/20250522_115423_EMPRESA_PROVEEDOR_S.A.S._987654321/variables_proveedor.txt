@@ -1,0 +1,43 @@
+{
+    "fecha_DD": "22",
+    "fecha_MM": "05",
+    "fecha_AA": "2025",
+    "naturaleza_juridica": "PERSONA JURÍDICA",
+    "nombre_razon_social": "EMPRESA PROVEEDOR S.A.S.",
+    "identificacion_tributaria": "987654321",
+    "email_representante_legal": "JUAN.PEREZ@EMPRESA.COM.CO",
+    "otro_numero_telefonico": "1234567",
+    "celular": "3214567890",
+    "nombre_representate_legal": "JUAN PÉREZ",
+    "cedula_representante_legal": "123456789",
+    "tamano_empresa": "MEDIANA",
+    "autorretenedor_impuesto_ic_municipio": "N/A",
+    "sagrilaft": "SI",
+    "serv_confeccion": "SI",
+    "nombre_contacto_contabilidad": "RODRIGO GARCÍA",
+    "cargo_contacto_contabilidad": "CONTADOR",
+    "telefono_contacto_contabilidad": "2345678",
+    "email_contacto_contabilidad": "RODRIGO.GARCIA@EMPRESA.COM.CO",
+    "email_reporte_pago": "REPORTES.PAGO@EMPRESA.COM.CO",
+    "email_facturacion_electronica": "FACTURACION@EMPRESA.COM.CO",
+    "email_reporte_compras": "",
+    "empleado_solicitante": "M",
+    "area_solicitante": "M",
+    "gerente_area_solicitante": "M",
+    "empresa": [
+        "LINEA DIRECTA"
+    ],
+    "caracterizacion_sustentabilidad": "NO",
+    "empleado_caracterizador": null,
+    "tipo_negocio": "VENTA DE PRODUCTOS",
+    "plazo_pago": "15",
+    "descripcion_negocio": "m",
+    "servicio_prestado_en_sede_de_la_compania": null,
+    "sede_servicio": [],
+    "tipo_proveedor": [
+        "telas"
+    ],
+    "nodo_1": null,
+    "nodo_2": null,
+    "otro_tipo_proveedor": null
+}

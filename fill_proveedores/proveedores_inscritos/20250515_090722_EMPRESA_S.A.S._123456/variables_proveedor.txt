@@ -1,0 +1,46 @@
+{
+    "fecha_DD": "15",
+    "fecha_MM": "05",
+    "fecha_AA": "2025",
+    "naturaleza_juridica": "PERSONA JURÍDICA",
+    "nombre_razon_social": "EMPRESA S.A.S.",
+    "identificacion_tributaria": "123456",
+    "email_representante_legal": "VEROARANGO24@GMAIL.COM",
+    "otro_numero_telefonico": "1234567",
+    "celular": "3147315520",
+    "nombre_representate_legal": "VERONICA ARANGO TORO",
+    "cedula_representante_legal": "1039473234",
+    "tamano_empresa": "MEDIANA",
+    "autorretenedor_impuesto_ic_municipio": "N/A",
+    "sagrilaft": "NO",
+    "serv_confeccion": "NO",
+    "nombre_contacto_contabilidad": "JUANITO",
+    "cargo_contacto_contabilidad": "CONTADOR",
+    "telefono_contacto_contabilidad": "1111111",
+    "email_contacto_contabilidad": "JUANITO.CONTADOR@EMPRESA.COM.CO",
+    "email_reporte_pago": "VERONICA.ARANGO.TORO@GMAIL.COM",
+    "email_facturacion_electronica": "FACTURACION@EMPRESA.COM.CO",
+    "email_reporte_compras": "REPORTE.COMPRAS@EMPRESA.COM.CO",
+    "empleado_solicitante": "S",
+    "area_solicitante": "S",
+    "gerente_area_solicitante": "S",
+    "empresa": [
+        "LINEA DIRECTA"
+    ],
+    "caracterizacion_sustentabilidad": "SI",
+    "empleado_caracterizador": "S",
+    "tipo_negocio": "PRODUCTOS Y SERVICIOS",
+    "plazo_pago": "15",
+    "descripcion_negocio": "s",
+    "servicio_prestado_en_sede_de_la_compania": "SI",
+    "sede_servicio": [
+        "B ESCOCIA"
+    ],
+    "tipo_proveedor": [
+        "insumos",
+        "confeccion"
+    ],
+    "nodo_1": "S",
+    "nodo_2": "S",
+    "otro_tipo_proveedor": null
+}

@@ -1,0 +1,47 @@
+{
+    "fecha_DD": "21",
+    "fecha_MM": "05",
+    "fecha_AA": "2025",
+    "naturaleza_juridica": "PERSONA JURÍDICA",
+    "nombre_razon_social": "EMPRESA123 S.A.S.",
+    "identificacion_tributaria": "35434",
+    "email_representante_legal": "DHFEUHFJE@NKDJ",
+    "otro_numero_telefonico": "",
+    "celular": "",
+    "nombre_representate_legal": "B",
+    "cedula_representante_legal": "34578",
+    "tamano_empresa": "PEQUEÑA",
+    "autorretenedor_impuesto_ic_municipio": "LA ESTRELLA",
+    "sagrilaft": "SI",
+    "serv_confeccion": "SI",
+    "nombre_contacto_contabilidad": "",
+    "cargo_contacto_contabilidad": "",
+    "telefono_contacto_contabilidad": "",
+    "email_contacto_contabilidad": "",
+    "email_reporte_pago": "JEJENFJE",
+    "email_facturacion_electronica": "",
+    "email_reporte_compras": "",
+    "empleado_solicitante": "EMPLEADO",
+    "area_solicitante": "AA",
+    "gerente_area_solicitante": "AA",
+    "empresa": [
+        "LINEA DIRECTA"
+    ],
+    "caracterizacion_sustentabilidad": "SI",
+    "empleado_caracterizador": "AAA",
+    "tipo_negocio": "PRODUCTOS Y SERVICIOS",
+    "plazo_pago": "15",
+    "descripcion_negocio": "ddd",
+    "servicio_prestado_en_sede_de_la_compania": "SI",
+    "sede_servicio": [
+        "B ESCOCIA"
+    ],
+    "tipo_proveedor": [
+        "tintoreria",
+        "confeccion",
+        "otro"
+    ],
+    "nodo_1": "NN",
+    "nodo_2": "NN",
+    "otro_tipo_proveedor": "SERVICIOS"
+}

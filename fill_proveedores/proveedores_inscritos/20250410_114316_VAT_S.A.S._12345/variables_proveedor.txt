@@ -1,0 +1,44 @@
+{
+    "fecha_DD": "10",
+    "fecha_MM": "04",
+    "fecha_AA": "2025",
+    "naturaleza_juridica": "PERSONA JURÍDICA",
+    "nombre_razon_social": "VAT S.A.S.",
+    "identificacion_tributaria": "12345",
+    "email_representante_legal": "VERONICA.ARANGO@LINEADIRECTA.COM.CO",
+    "otro_numero_telefonico": "",
+    "celular": "",
+    "nombre_representate_legal": "VERONICA ARANGO TORO",
+    "cedula_representante_legal": "1039473234",
+    "tamano_empresa": "MICRO",
+    "autorretenedor_impuesto_ic_municipio": "N/A",
+    "sagrilaft": "SI",
+    "serv_confeccion": "SI",
+    "nombre_contacto_contabilidad": "",
+    "cargo_contacto_contabilidad": "",
+    "telefono_contacto_contabilidad": "",
+    "email_contacto_contabilidad": "",
+    "email_reporte_pago": "VERONICA.ARANGO@LINEADIRECTA.COM.CO",
+    "email_facturacion_electronica": "",
+    "email_reporte_compras": "",
+    "empleado_solicitante": "VER",
+    "area_solicitante": "PF",
+    "gerente_area_solicitante": "JHCB",
+    "empresa": [
+        "LINEA DIRECTA"
+    ],
+    "caracterizacion_sustentabilidad": "NO",
+    "nodo_1" : null,
+    "nodo_2": null,
+    "otro_tipo_proveedor" : null
+    "empleado_caracterizador": null,
+    "tipo_negocio": "VENTA DE PRODUCTOS",
+    "plazo_pago": "15",
+    "descripcion_negocio": "des",
+    "servicio_prestado_en_sede_de_la_compania": null,
+    "sede_servicio": null,
+    "tipo_proveedor": [
+        "cuidado_hogar",
+        "otro"
+    ]
+}
